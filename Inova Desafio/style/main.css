@@ -1,9 +1,10 @@
 :root {
     --vermelho : #E50914;
     --preto: #141414;
+    --Azul: #094fe5d8;
 }
 * {
-    padding: 0;
+    padding: 0; 
     margin: 0;
     box-sizing: border-box;
     font-family: sans-serif;

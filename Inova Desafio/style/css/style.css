@@ -178,7 +178,8 @@ label {
 }
 .btn:hover, .btn:active {
 	color: #333;
-	background-color: #e50914ee;
+	background-color: #094fe5cc;
+	
 	box-shadow: none;
 }
 ul, .list.custom-list ul {
@@ -218,7 +219,7 @@ ul, .list.custom-list ul {
 .thumbnail .caption {
 	color: #383838;
 	background: #ECECEC;
-	border-top: 6px solid #FF822F;
+	border-top: 6px solid #094fe5d8;
 	box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.54);
 }
 .thumbnail .caption:hover {
@@ -998,7 +999,7 @@ nav#filter a.current {
 }
 .btn {
 	color: #000;
-	background: #e50914d8;
+	background: #094fe5d8;
 	box-shadow: none;
 	border-radius: 0;
 	padding: 12px 34px;
